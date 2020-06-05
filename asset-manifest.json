@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/four-card-feature-section/static/css/main.4b2c9354.chunk.css",
+    "main.js": "/four-card-feature-section/static/js/main.85c64ae3.chunk.js",
+    "main.js.map": "/four-card-feature-section/static/js/main.85c64ae3.chunk.js.map",
+    "runtime-main.js": "/four-card-feature-section/static/js/runtime-main.cf5d0f15.js",
+    "runtime-main.js.map": "/four-card-feature-section/static/js/runtime-main.cf5d0f15.js.map",
+    "static/js/2.3ef3de57.chunk.js": "/four-card-feature-section/static/js/2.3ef3de57.chunk.js",
+    "static/js/2.3ef3de57.chunk.js.map": "/four-card-feature-section/static/js/2.3ef3de57.chunk.js.map",
+    "index.html": "/four-card-feature-section/index.html",
+    "precache-manifest.ab119ab9ca3c2aee88923d269784fc6f.js": "/four-card-feature-section/precache-manifest.ab119ab9ca3c2aee88923d269784fc6f.js",
+    "service-worker.js": "/four-card-feature-section/service-worker.js",
+    "static/css/main.4b2c9354.chunk.css.map": "/four-card-feature-section/static/css/main.4b2c9354.chunk.css.map",
+    "static/js/2.3ef3de57.chunk.js.LICENSE.txt": "/four-card-feature-section/static/js/2.3ef3de57.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf5d0f15.js",
+    "static/js/2.3ef3de57.chunk.js",
+    "static/css/main.4b2c9354.chunk.css",
+    "static/js/main.85c64ae3.chunk.js"
+  ]
+}
